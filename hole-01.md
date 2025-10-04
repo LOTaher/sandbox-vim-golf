@@ -1,12 +1,10 @@
-# Hole 1
+# Hole 1 | Par 10
 
 ## Solution:
 
 ```js
 console.log("test")
 ```
-
-## Par 10
 
 [ ] <- Cursor starts here
 

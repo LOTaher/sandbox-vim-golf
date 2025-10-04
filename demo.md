@@ -267,4 +267,4 @@ There are tens of more motions + tricks but these are the ones I use on the dail
 
 
 
-Welcome to the bottom of the file! Go back up by typing 'gg' in normal mode and find yourself back
+Welcome to the bottom of the file! Go back up by typing 'gg' in normal mode and find yourself back to where we were
