@@ -15,7 +15,7 @@ test('subtracts', () => {
 })
 ```
 
-[ ] <- Cursor starts here
+[ ] <- Cursor starts in here in normal mode
 
 ```js
 test('subtracts', () => {
